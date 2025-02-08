@@ -29,7 +29,7 @@ Siga esses passos para instalar o projeto no localhost..
 
     Clone o repository:
 
-    git clone [https://github.com/snipher-marube/jumia-product-scraper.git](https://github.com/gugamaster10/WebScrapping.git)
+    git clone https://github.com/gugamaster10/WebScrapping.git
     cd WebScrapping
 
     Criando ambiente virtual:
@@ -64,4 +64,8 @@ Uso
 
     Pesquise pelo nome do produto que deseja para enconratar no site Jumia.
     Navegue pelas ofertas e melhores produtos e preços.
+
+Licença
+
+Acesse a nossa liscença de uso.
     .
