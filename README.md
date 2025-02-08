@@ -34,13 +34,13 @@ Siga esses passos para instalar o projeto no localhost..
 
     Criando ambiente virtual:
 
-    python -m venv venv
+        python -m venv venv
     
     Ativando ambiente virtual:
 
     No Windows:
 
-    venv\Scripts\activate
+        venv\Scripts\activate
 
     No macOS/Linux:
 
@@ -48,15 +48,15 @@ Siga esses passos para instalar o projeto no localhost..
 
     Instalando pacotes necessários:
 
-    pip install -r requirements.txt
+        pip install -r requirements.txt
 
     Rodar os migrations:
 
-    python manage.py migrate
+        python manage.py migrate
 
     Iniciar desenvolvimento do servidor:
 
-    python manage.py runserver
+        python manage.py runserver
 
     Acesso a aplicação: Abra o seu webbrowser pelo link http://127.0.0.1:8000/.
 
