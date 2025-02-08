@@ -1,9 +1,9 @@
-# WebScrapping
-WebScrapping dos preços do site Jumia 
+
+## WebScrapping dos preços do site Jumia
 
 Esse projeto Django permite aos usuários pesquisar produtos no site Jumia, mostrar resultados dos melhores preços e ofertas.
 
-Conteúdo
+## Conteúdo
 
     Funcionalidade
     Tecnologias Usadas
@@ -11,11 +11,11 @@ Conteúdo
     Uso
     Licença
 
-Funcionalidade
+## Funcionalidade
 
     Pesquisa vários intens em venda no site Jumia, organiza os melhores preços para o usuário
 
-Tecnologias Usadas
+## Tecnologias Usadas
 
     Django: linguagem de alto nivel em python web framework.
     BeautifulSoup: A biblioteca de parsing HTML e XML documentos.
@@ -23,7 +23,7 @@ Tecnologias Usadas
     HTML/CSS: Para um front-end design.
     Python: Linguagem de programação usada para o desenvolvimento backend.
 
-Instalação
+## Instalação
 
 Siga esses passos para instalar o projeto no localhost..
 
@@ -34,13 +34,13 @@ Siga esses passos para instalar o projeto no localhost..
 
     Criando ambiente virtual:
 
-        python -m venv venv
-    
+    python -m venv venv
+
     Ativando ambiente virtual:
 
     No Windows:
 
-        venv\Scripts\activate
+    venv\Scripts\activate
 
     No macOS/Linux:
 
@@ -48,24 +48,24 @@ Siga esses passos para instalar o projeto no localhost..
 
     Instalando pacotes necessários:
 
-        pip install -r requirements.txt
+    pip install -r requirements.txt
 
     Rodar os migrations:
 
-        python manage.py migrate
+    python manage.py migrate
 
     Iniciar desenvolvimento do servidor:
 
-        python manage.py runserver
+    python manage.py runserver
 
-    Acesso a aplicação: Abra o seu webbrowser pelo link http://127.0.0.1:8000/.
+    Acesso a aplicação: Abra o seu web browser pelo link http://127.0.0.1:8000/.
 
-Uso
+## Uso
 
-    Pesquise pelo nome do produto que deseja para enconratar no site Jumia.
+    Pesquise pelo nome do produto que deseja para encontrar no site Jumia.
     Navegue pelas ofertas e melhores produtos e preços.
 
-Licença
+## Licença
 
-Acesse a nossa liscença de uso.
-    .
+Acesse a nossa licença de uso.
+    https://github.com/gugamaster10/WebScrapping/blob/main/LICENSE
